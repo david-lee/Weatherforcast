@@ -1,0 +1,27 @@
+.arc-city-search {
+	width: 300px;
+	margin-left: 15px;
+}
+
+.forecast-content {
+	margin-top: 20px;
+}
+
+.js-temp-chart {
+	width: 750px;
+	height: 200px;
+}
+
+#content { 
+	margin-top: 20px	
+}
+.panel-body {
+	min-height: 500px;
+}
+
+.progress {
+	display: none;
+	width: 400px;
+	margin-left: 200px;
+}
+
